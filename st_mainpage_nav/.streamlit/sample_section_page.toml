@@ -1,0 +1,109 @@
+##Welcome/Landing Page
+[[pages]]
+path = "lone_page1.py"
+name = "lone_page1"
+icon = ""
+is_section = false
+
+
+[[pages]]
+name = "lone_page2"
+path = "app_sections/lone_page2.py"
+icon = ""
+is_section = false
+
+
+[[pages]]
+name = "S1"
+icon = ""
+is_section = true
+
+[[pages]]
+path = "app_sections/s1_p1.py"
+name = "s1_p1"
+icon = ""
+is_section = false
+
+[[pages]]
+path = "app_sections/s1_p2.py"
+name = "s1_p2"
+icon = ""
+is_section = false
+
+[[pages]]
+path = "app_sections/s1_p3.py"
+name = "s1_p3"
+icon = ""
+is_section = false
+
+[[pages]]
+path = "app_sections/s1_p4.py"
+name = "s1_p4"
+icon = ""
+is_section = false
+
+
+[[pages]]
+name = "s2"
+icon = ""
+is_section = true
+
+[[pages]]
+name = "s2_p1"
+icon = ""
+path = "app_sections/s2_p1.py"
+is_section = false
+
+[[pages]]
+name = "s2_p2"
+icon = ""
+path = "app_sections/s2_p2.py"
+is_section = false
+
+
+[[pages]]
+name = "s3"
+icon = ""
+is_section = true
+
+[[pages]]
+name = "s3_p1"
+icon = ""
+path = "app_sections/s3_p1.py"
+is_section = false
+
+[[pages]]
+name = "s3_p2"
+icon = ""
+path = "app_sections/s3_p2.py"
+is_section = false
+
+[[pages]]
+name = "s3_p3"
+icon = ""
+path = "app_sections/s3_p3.py"
+is_section = false
+
+[[pages]]
+name = "s4"
+path = ""
+icon = ""
+is_section = true
+
+[[pages]]
+name = "s4_p1"
+icon = ""
+path = "app_sections/s4_p1.py"
+is_section = false
+
+[[pages]]
+name = "s4_p2"
+icon = ""
+path = "app_sections/s4_p2.py"
+is_section = false
+
+[[pages]]
+name = "s4_p3"
+icon = ""
+path = "app_sections/s4_p3.py"
+is_section = false
