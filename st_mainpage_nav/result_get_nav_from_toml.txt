@@ -1,0 +1,26 @@
+{
+  "": [
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018002090>"
+  ],
+  " S1": [
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018003A50>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018003410>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018003790>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x00000260180032D0>"
+  ],
+  " s2": [
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018003A90>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018225B90>"
+  ],
+  " s3": [
+    "<streamlit.navigation.page.StreamlitPage object at 0x00000260182240D0>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018225BD0>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x00000260182245D0>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018224BD0>"
+  ],
+  " s4": [
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018225010>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018225210>",
+    "<streamlit.navigation.page.StreamlitPage object at 0x0000026018225350>"
+  ]
+}

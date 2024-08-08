@@ -7,13 +7,6 @@ is_section = false
 
 
 [[pages]]
-name = "lone_page2"
-path = "app_sections/lone_page2.py"
-icon = ""
-is_section = false
-
-
-[[pages]]
 name = "S1"
 icon = ""
 is_section = true
